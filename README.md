@@ -27,7 +27,7 @@ Sou desenvolvedor focado em transformar ideias em código limpo, funcional e cri
 
 ### 💬 Onde me encontrar
 
-- 📧 Email: lucas@softica.com.br  
+- 📧 Email: lucaslep2512@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/lucaslep](https://www.linkedin.com/in/lucaslep/)  
 - 🌐 Portfólio (em breve!)
 
