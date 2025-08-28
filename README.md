@@ -31,7 +31,7 @@ Sou desenvolvedor focado em transformar ideias em código limpo, funcional e cri
 
 - 📧 Email: lucaslep2512@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/lucaslep](https://www.linkedin.com/in/lucaslep/)  
-- 🌐 Portfólio [(em breve!) ](https://lucaslep.github.io/Portfolio-Lucas-Lepore/) 
+- 🌐 Portfólio (https://lucaslep.github.io/Portfolio-Lucas-Lepore/) 
 - 📱 Telefone: (11) 97280-2912
 
 ---
