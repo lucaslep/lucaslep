@@ -1,39 +1,49 @@
-## 👋 Olá! Eu sou o Lucas Lepore
+# 👋 Olá, eu sou o Lucas Lepore
 
-Sou desenvolvedor focado em transformar ideias em código limpo, funcional e criativo. Apaixonado por tecnologia, sempre buscando novos desafios e aprendizados no mundo da programação.
+Desenvolvedor de software com experiência em **Delphi 7** e foco em evolução para o ecossistema **JavaScript/TypeScript**.
 
-✝️ "Posso todas as coisas naquele que me fortalece."
-— Filipenses 4:13
+Atualmente trabalho com desenvolvimento e manutenção de sistemas, buscando sempre escrever código mais organizado, sustentável e orientado à resolução de problemas reais.
 
-### 🚀 Sobre mim
+Tenho interesse especial em **backend, APIs, automação, arquitetura de aplicações e boas práticas de desenvolvimento**.
 
-- 💼 Atualmente trabalho com **Delphi 7**
-- 📚 Estudando constantemente **JavaScript**, **TypeScript** e **Node.js**
-- 🧠 Gosto de resolver problemas e construir soluções que impactam pessoas
-- 🌍 Acredito que conhecimento compartilhado transforma vidas
+> ✝️ "Posso todas as coisas naquele que me fortalece."  
+> Filipenses 4:13
 
-### 🛠️ Tecnologias & Ferramentas
+## 👨‍💻 Sobre mim
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Delphi](https://img.shields.io/badge/-Delphi-E60028?style=flat&logo=delphi&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+- 💼 Atualmente trabalho profissionalmente com **Delphi 7**
+- 📚 Estudo e desenvolvo projetos com **JavaScript, TypeScript e Node.js**
+- 🧩 Tenho interesse em resolução de problemas, lógica e melhoria contínua de sistemas
+- 🚀 Busco evoluir em desenvolvimento backend e construção de aplicações modernas
+- 🤝 Valorizo colaboração, documentação e compartilhamento de conhecimento
 
-### 📈 GitHub Stats
+## 🛠️ Tecnologias e ferramentas
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslep&show_icons=true&theme=radical)
+### Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslep&layout=compact&theme=radical)
+![Delphi](https://img.shields.io/badge/Delphi-E60028?style=for-the-badge&logo=delphi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 💬 Onde me encontrar
+### Web
 
-- 📧 Email: lucaslep2512@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/lucaslep](https://www.linkedin.com/in/lucaslep/)  
-- 🌐 Portfólio https://lucaslep.github.io/Portfolio-Lucas-Lepore/
-- 📱 Telefone: (11) 97280-2912
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### Ferramentas
 
-> “A melhor maneira de prever o futuro é criá-lo.” – Alan Kay  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🎯 Atualmente estudando
+
+```text
+JavaScript
+TypeScript
+Node.js
+APIs REST
+Git e GitHub
+Boas práticas de código
+Arquitetura de aplicações
