@@ -12,13 +12,13 @@ Tenho interesse especial em **backend, APIs, automação, arquitetura de aplica�
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
-- 💼 Atualmente trabalho profissionalmente com **Delphi 7**
-- 📚 Estudo e desenvolvo projetos com **JavaScript, TypeScript e Node.js**
-- 🧩 Tenho interesse em resolução de problemas, lógica e melhoria contínua de sistemas
-- 🚀 Busco evoluir em desenvolvimento backend e construção de aplicações modernas
-- 🤝 Valorizo colaboração, documentação e compartilhamento de conhecimento
+-  Atualmente trabalho profissionalmente com **Delphi 7**
+-  Estudo e desenvolvo projetos com **JavaScript, TypeScript e Node.js**
+-  Tenho interesse em resolução de problemas, lógica e melhoria contínua de sistemas
+-  Busco evoluir em desenvolvimento backend e construção de aplicações modernas
+-  Valorizo colaboração, documentação e compartilhamento de conhecimento
 
 ---
 
@@ -44,7 +44,7 @@ Tenho interesse especial em **backend, APIs, automação, arquitetura de aplica�
 
 ---
 
-## 🎯 Atualmente estudando
+##  Atualmente estudando
 
 ```text
 JavaScript
