@@ -55,16 +55,10 @@ Git e GitHub
 Boas práticas de código
 Arquitetura de aplicações
 ```
-
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucaslep&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslep&layout=compact&theme=github_dark&hide_border=true" />
-
 </p>
 
 📫 Contato
-📧 Email: lucaslep2512@gmail.com
-💼 LinkedIn: linkedin.com/in/lucaslep
-🌐 Portfólio: lucaslep.github.io/Portfolio-Lucas-Lepore
-📱 Telefone: (11) 97280-2912
+📧 Email: lucaslep2512@gmail.com </p>
+💼 LinkedIn: linkedin.com/in/lucaslep </p>
+🌐 Portfólio: lucaslep.github.io/Portfolio-Lucas-Lepore </p>
+📱 Telefone: (11) 97280-2912 </p>
