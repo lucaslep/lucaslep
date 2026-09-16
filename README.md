@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Lepore
+# Olá, eu sou o Lucas Lepore
 
 Desenvolvedor de software com experiência em **Delphi 7** e foco em evolução para o ecossistema **JavaScript/TypeScript**.
 
@@ -47,3 +47,5 @@ APIs REST
 Git e GitHub
 Boas práticas de código
 Arquitetura de aplicações
+
+### 💬 Onde me encontrar - 📧 Email: lucaslep2512@gmail.com - 💼 LinkedIn: [linkedin.com/in/lucaslep](https://www.linkedin.com/in/lucaslep/) - 🌐 Portfólio https://lucaslep.github.io/Portfolio-Lucas-Lepore/ - 📱 Telefone: (11) 97280-2912
