@@ -60,5 +60,3 @@ Arquitetura de aplicações
 📫 Contato
 📧 Email: lucaslep2512@gmail.com </p>
 💼 LinkedIn: linkedin.com/in/lucaslep </p>
-🌐 Portfólio: lucaslep.github.io/Portfolio-Lucas-Lepore </p>
-📱 Telefone: (11) 97280-2912 </p>
